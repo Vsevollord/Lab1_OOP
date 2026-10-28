@@ -3,7 +3,7 @@
 Выполнил: Прудкин Всеволод, группа ИДБ-25-02
 
 ## Задание 1 — Решение уравнений
-См. [task1/README.md](task1/README.md).
+См. [Task1/README.md](Task1/README.md).
 
 ## Задание 2 — Генерация и прохождение лабиринта
-См. [task2/README.md](task2/README.md).
+См. [Task2/README.md](Task2/README.md).
